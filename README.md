@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashel Waduge. 
 - 👀 I’m interested in developing helpful softwares for humans.
 - 🌱 I’m currently learning many programming languages.
-- 💞️ I’m looking to collaborate with many talented engineers and develop my experience and skills.
+- 💞️ I’m looking to collaborate with many talented engineers and develop my experience and skills in future.
 - 📫 Reach me via my email: ashelwaduge@gmail.com
 
 <!---
